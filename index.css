@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+table{
+    width: 100%;
+    border: 2px solid white;
+    border-collapse: collapse;
+    margin-top: 2rem;
+}
+th{
+    background-color: tomato;
+    color: pink;
+    border: 2px solid white;
+}
+td{
+    background-color: rgb(65,65,209);
+    border: 2px solid white;
+}
+body{
+    background-color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+
+}
+.heading{
+    background-color: grey;
+    color: green;
+    border: 2px solid plum;
+}
+
+.data{
+    background-color: brown;
+    border: 2px solid purple;
+}
+.chair{
+    background-color: pink;
+    color: rgb(65,65,209);
+    border: 2px solid red; 
+}
+.sub{
+    background-color: pink;
+    border: 2px solid red;
+    color: rgb(65,65,209);
+}
